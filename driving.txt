@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Testing if i can add anything to REPO
-=======
-I love music!!!!!
->>>>>>> c20b9530abf10fe7fcb23260eb007047e3eca14e
+I love music!!!!
